@@ -11,4 +11,4 @@ script:
   - pytest
 
 notifications:
-  slack: miprimerentono:cw0HBSA0XbZi8oTx6tvrYHNx
+   slack: tpi-grupo:KU9ouAhc1AnsAkBca3h2F7A1
