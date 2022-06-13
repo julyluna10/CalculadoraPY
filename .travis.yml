@@ -25,7 +25,7 @@ script:
 notifications:
   email:
     recipients:
-      - julyluna10@gmail.com
+      -julyluna10@gmail.com
     on_success: always
     on_failure: always
   slack: tpi-grupo:KU9ouAhc1AnsAkBca3h2F7A1
