@@ -8,8 +8,7 @@ addons:
   sonarcloud: true
 
 script:
-  - sonar-scanner -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=julyluna10
-  -Dsonar.login=$SONAR_TOKEN -X
+  - sonar-scanner -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=julyluna10 -Dsonar.login=$sonar_token -X
   - pytest
 
 notifications:
