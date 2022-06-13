@@ -38,3 +38,4 @@ deploy:
   app: calculadora-py
   on:
     repo: julyluna10/CalculadoraPY
+    branch: main
