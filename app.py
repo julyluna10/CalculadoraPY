@@ -20,7 +20,7 @@ bottle.debug(True)
 
 @route('/')
 def index():
-	return "<h1>Hola! Estoy haciendo una calculadora!! </h1>"
+	return "<h1>Buenas!! Estoy haciendo una calculadora!! </h1>"
 
 
 #if __name__ == '__main__':
