@@ -38,4 +38,4 @@ deploy:
   app: calculadora-py
   on:
     repo: julyluna10/CalculadoraPY
-    all_branches: true
+
