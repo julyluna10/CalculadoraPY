@@ -27,12 +27,12 @@ script:
 notifications:
    slack: tpi-grupo:KU9ouAhc1AnsAkBca3h2F7A1
 
-deploy:
-  provider: heroku
-  skip_cleanup: true
-  keep-history: true
-  api_key: de63704f-cde6-4771-98d4-1523e8e998ad
-  app: calculadora-py
-  on:
-    repo: julyluna10/CalculadoraPY
+#deploy:
+  #provider: heroku
+ # skip_cleanup: true
+ # keep-history: true
+ # api_key: de63704f-cde6-4771-98d4-1523e8e998ad
+ # app: calculadora-py
+  #on:
+   # repo: julyluna10/CalculadoraPY
 
